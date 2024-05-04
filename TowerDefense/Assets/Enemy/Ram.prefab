@@ -95,6 +95,7 @@ GameObject:
   - component: {fileID: 5833751136335470262}
   - component: {fileID: 7722344083081016880}
   - component: {fileID: 8517238253582956791}
+  - component: {fileID: 8337656585058590122}
   m_Layer: 0
   m_Name: Ram
   m_TagString: Enemy
@@ -163,5 +164,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fa947de70915c2c44b532d9c3f6a62ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHitPoints: 5
+--- !u!114 &8337656585058590122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5040643765344069697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4f23c53a5f83154eae30a2692fb0baf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
