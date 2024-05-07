@@ -10,9 +10,10 @@ public class ObjectPool : MonoBehaviour
 
     GameObject[] pool;
 
-     void Awake()
+
+    void Awake()
     {
-        PopulatePool();    
+        PopulatePool();
     }
 
     void Start()
@@ -20,11 +21,12 @@ public class ObjectPool : MonoBehaviour
         StartCoroutine(SpawnEnemy());
     }
 
+
     void PopulatePool()
     {
         pool = new GameObject[poolSize];
 
-        for(int i = 0; i < poolSize; i++)
+        for (int i = 0; i < poolSize; i++)
         {
             pool[i] = Instantiate(enemyPrefab, transform);
             pool[i].SetActive(false);
@@ -33,12 +35,13 @@ public class ObjectPool : MonoBehaviour
 
     IEnumerator SpawnEnemy()
     {
-        while(Application.isPlaying)
+        while (Application.isPlaying)
         {
             EnableObjectInPool();
             yield return new WaitForSeconds(spawnTimer);
         }
     }
+
     void EnableObjectInPool()
     {
         foreach (GameObject enemy in pool)

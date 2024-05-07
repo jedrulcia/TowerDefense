@@ -22,6 +22,8 @@ public class CoordinateLabeler : MonoBehaviour
         waypoint = GetComponentInParent<Waypoint>();
         DisplayCoordinates();
     }
+
+
     void Update()
     {
         if(!Application.isPlaying)
@@ -32,6 +34,8 @@ public class CoordinateLabeler : MonoBehaviour
         ColorCoordinates();
         ToggleLabels();
     }
+
+
     void DisplayCoordinates()
     {
         coordinates.x = Mathf.RoundToInt(transform.parent.position.x / UnityEditor.EditorSnapSettings.move.x);
@@ -46,14 +50,11 @@ public class CoordinateLabeler : MonoBehaviour
 
     void ColorCoordinates()
     {
-        if (waypoint.IsPlaceable) label.color = defaultColor;
-        else label.color = blockColor;
+        if (waypoint.IsPlaceable) { label.color = defaultColor; }
+        else { label.color = blockColor; }
     }
     void ToggleLabels()
     {
-        if(Input.GetKeyDown(KeyCode.C))
-        {
-            label.enabled = !label.IsActive();
-        }
+        if(Input.GetKeyDown(KeyCode.C)) { label.enabled = !label.IsActive(); }
     }
 }
