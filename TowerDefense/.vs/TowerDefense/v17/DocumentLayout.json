@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|c:\\users\\jedrulcia\\desktop\\jedrzej\\programowanko\\github\\towerdefense\\towerdefense\\assets\\tiles\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\tiles\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\tower\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tower\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,6 +25,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\tower\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tower\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|c:\\users\\jedrulcia\\desktop\\jedrzej\\programowanko\\github\\towerdefense\\towerdefense\\assets\\tiles\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\tiles\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\waypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\tower\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tower\\targetlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,96 +46,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "CoordinateLabeler.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tiles\\CoordinateLabeler.cs",
               "RelativeDocumentMoniker": "Assets\\Tiles\\CoordinateLabeler.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tiles\\CoordinateLabeler.cs",
               "RelativeToolTip": "Assets\\Tiles\\CoordinateLabeler.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAA3AAAA",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T22:06:18.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Tower.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tower\\Tower.cs",
               "RelativeDocumentMoniker": "Assets\\Tower\\Tower.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tower\\Tower.cs",
               "RelativeToolTip": "Assets\\Tower\\Tower.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:39:56.63Z"
+              "WhenOpened": "2024-05-07T16:39:56.63Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\Enemy.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\Enemy.cs",
               "RelativeToolTip": "Assets\\Enemy\\Enemy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:26:32.389Z"
+              "WhenOpened": "2024-05-07T16:26:32.389Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Bank.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Bank\\Bank.cs",
               "RelativeDocumentMoniker": "Assets\\Bank\\Bank.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Bank\\Bank.cs",
               "RelativeToolTip": "Assets\\Bank\\Bank.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAYAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T16:22:51.261Z"
+              "WhenOpened": "2024-05-07T16:22:51.261Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ObjectPool.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\ObjectPool.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\ObjectPool.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\ObjectPool.cs",
               "RelativeToolTip": "Assets\\Enemy\\ObjectPool.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAcAAAA+AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T09:06:56.895Z"
+              "WhenOpened": "2024-05-04T09:06:56.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "EnemyMover.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\EnemyMover.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyMover.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\EnemyMover.cs",
               "RelativeToolTip": "Assets\\Enemy\\EnemyMover.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T09:08:39.623Z"
+              "WhenOpened": "2024-05-01T09:08:39.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyHealth.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\EnemyHealth.cs",
               "RelativeToolTip": "Assets\\Enemy\\EnemyHealth.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:38:01.665Z"
+              "WhenOpened": "2024-05-02T18:38:01.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "TargetLocator.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tower\\TargetLocator.cs",
               "RelativeDocumentMoniker": "Assets\\Tower\\TargetLocator.cs",
@@ -147,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Waypoint.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tiles\\Waypoint.cs",
               "RelativeDocumentMoniker": "Assets\\Tiles\\Waypoint.cs",
