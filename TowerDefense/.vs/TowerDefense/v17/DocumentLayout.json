@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\tiles\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|c:\\users\\jedrulcia\\desktop\\jedrzej\\programowanko\\github\\towerdefense\\towerdefense\\assets\\pathfinding\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\pathfinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|c:\\users\\jedrulcia\\desktop\\jedrzej\\programowanko\\github\\towerdefense\\towerdefense\\assets\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\gridmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|c:\\users\\jedrulcia\\desktop\\jedrzej\\programowanko\\github\\towerdefense\\towerdefense\\assets\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\pathfinding\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\tiles\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\tiles\\coordinatelabeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\assets\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,13 +74,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pathfinder.cs",
+              "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Pathfinding\\Pathfinder.cs",
+              "RelativeDocumentMoniker": "Assets\\Pathfinding\\Pathfinder.cs",
+              "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Pathfinding\\Pathfinder.cs",
+              "RelativeToolTip": "Assets\\Pathfinding\\Pathfinder.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T17:38:36.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "GridManager.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Pathfinding\\GridManager.cs",
               "RelativeDocumentMoniker": "Assets\\Pathfinding\\GridManager.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Pathfinding\\GridManager.cs",
               "RelativeToolTip": "Assets\\Pathfinding\\GridManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T18:18:18.443Z",
               "EditorCaption": ""
@@ -89,27 +106,27 @@
               "RelativeDocumentMoniker": "Assets\\Pathfinding\\Node.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Pathfinding\\Node.cs",
               "RelativeToolTip": "Assets\\Pathfinding\\Node.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T18:13:24.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CoordinateLabeler.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tiles\\CoordinateLabeler.cs",
               "RelativeDocumentMoniker": "Assets\\Tiles\\CoordinateLabeler.cs",
               "ToolTip": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tiles\\CoordinateLabeler.cs",
               "RelativeToolTip": "Assets\\Tiles\\CoordinateLabeler.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAswDYAAAAFAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAUwDYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-10T22:06:18.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Tower.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tower\\Tower.cs",
               "RelativeDocumentMoniker": "Assets\\Tower\\Tower.cs",
@@ -121,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\Enemy.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\Enemy.cs",
@@ -133,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Bank.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Bank\\Bank.cs",
               "RelativeDocumentMoniker": "Assets\\Bank\\Bank.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ObjectPool.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\ObjectPool.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\ObjectPool.cs",
@@ -157,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "EnemyMover.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\EnemyMover.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyMover.cs",
@@ -169,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Enemy\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Enemy\\EnemyHealth.cs",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TargetLocator.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tower\\TargetLocator.cs",
               "RelativeDocumentMoniker": "Assets\\Tower\\TargetLocator.cs",
@@ -193,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Waypoint.cs",
               "DocumentMoniker": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\TowerDefense\\TowerDefense\\Assets\\Tiles\\Waypoint.cs",
               "RelativeDocumentMoniker": "Assets\\Tiles\\Waypoint.cs",
