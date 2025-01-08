@@ -5,7 +5,7 @@ using UnityEngine;
 [RequireComponent(typeof(Enemy))]
 public class EnemyHealth : MonoBehaviour
 {
-    [SerializeField] int maxHitPoints = 5;
+    [SerializeField] int maxHitPoints = 3;
     [SerializeField] int difficultyRamp = 1;
 
     int currentHitPoints = 0;
